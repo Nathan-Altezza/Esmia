@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="Liste">
+        <item> Java </item>
+        <item> PHP </item>
+        <item> Python </item>
+        <item> Android </item>
+        <item> C++ </item>
+        <item> C </item>
+        <item> JavaScript </item>
+        <item> IA </item>
+        <item> HTML/CSS </item>
+        <item> SGBD </item>
+    </string-array>
+</resources>
